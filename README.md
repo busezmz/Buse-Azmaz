@@ -24,7 +24,6 @@
 - **Tools:** Unreal Engine 5, Selenium, Postman, Rest Assured, Jira, TestRail, Proteus, Vijeo Designer, TwidoSuite  
 - **Protocols:** Modbus, RS232, RS485, MQTT, OPC UA (in progress)  
 - **Operating Systems:** Linux (Ubuntu, Manjaro), Windows  
-- **Hardware:** Arduino, Raspberry Pi, CRT TV, Sensor-based systems
 
 ---
 
