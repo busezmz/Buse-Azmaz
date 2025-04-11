@@ -1,8 +1,8 @@
 # Buse-Azmaz
-<h1 align="center">Hi, I'm Buse Azmaz 👩‍💻</h1>
+<h1 align="center">Hi, I'm Buse Azmaz </h1>
 
 <p align="center">
-  <em>Electrical & Electronics Engineer | Jr. Connectivity / IoT Enthusiast | Embedded Systems & AI Explorer</em>
+  <em>Electrical & Electronics Engineer | IoT Enthusiast | Embedded Systems & AI Explorer</em>
 </p>
 
 ---
