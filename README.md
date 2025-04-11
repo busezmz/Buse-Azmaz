@@ -30,12 +30,12 @@
 
 ##  Featured Projects
 
-###  [Lung Cancer Detection](https://github.com/busezmz/Lung-Cancer-Detection)
+###  [Lung Cancer Detection]
 - CNN-based lung cancer detection using textural features
 - Dataset preprocessing, model training, evaluation
 - Libraries: Keras, TensorFlow, OpenCV, Sklearn
 
-###  [Comprehensive Testing Framework](Private repo or coming soon)
+###  [Comprehensive Testing Framework]
 - UI test automation with Selenium & Allure Report
 - API testing with Postman & Rest Assured (GET, POST, PUT, DELETE)
 - Bug tracking with Jira and reporting through TestRail
