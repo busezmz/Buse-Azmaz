@@ -10,7 +10,7 @@
 ##  About Me
 
 -  Electrical & Electronics Engineering graduate from **University of Turkish Aeronautical Association**  
-- 🛠 Passionate about **IoT**, **Industrial Communication Protocols**, and **Embedded Systems**
+-  Passionate about **IoT**, **Industrial Communication Protocols**, and **Embedded Systems**
 -  Focused on applying **C/C++**, **Python**, and **Machine Learning** in engineering projects
 -  Based in Ankara, Turkey  
 -  Always learning — currently exploring **C++** and **Python**
